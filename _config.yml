@@ -106,5 +106,5 @@ baidusitemap:
 
 deploy:
   type: git
-  repo: git@129.28.193.26:/www/wwwroot/repo/blog.git
+  repo: git@www.hejie.xyz:/www/wwwroot/repo/blog.git
   branch: main
