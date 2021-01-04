@@ -1,11 +1,14 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  # Home: /
+  # Archives: /archives
+  主页: /
+  归档: /archives
+  关于我: /aboutme
 # rss: /atom.xml
 
 # Content
-excerpt_link: read more
+excerpt_link: 全文
 
 # Favicon
 # favicon: /favicon.ico

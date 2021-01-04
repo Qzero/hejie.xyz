@@ -90,20 +90,21 @@ per_page: 10
 pagination_dir: page
 
 #menu Include / Exclude file(s)
-## include:/exclude: options only apply to the 'source/' folder
-# include:
-# exclude:
-# ignore:
-menu:
-  主页: /
-  发布: /archives
+# include:/exclude: options only apply to the 'source/' folder
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
 theme: ascent
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+addlink:
+  before_text: 文章：
+  after_text: 归属Jie.He
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 deploy:
-  type: ''
+  type:git
+  repo:git@www.hejie.xyz:/www/wwwroot/repo/blog.git
+  branch:main
