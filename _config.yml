@@ -107,4 +107,4 @@ baidusitemap:
 deploy:
   type: git
   repo: git@www.hejie.xyz:/www/blog.git
-  branch: main
+  branch: master
