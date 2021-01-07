@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://www.hejie.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -95,9 +95,9 @@ pagination_dir: page
 # Extensions
 theme: ascent
 
-addlink:
-  before_text: 文章：
-  after_text: 归属Jie.He
+# addlink:
+#   before_text: 
+#   after_text: 转载注明出处
 
 sitemap:
   path: sitemap.xml
@@ -106,5 +106,5 @@ baidusitemap:
 
 deploy:
   type: git
-  repo: git@www.hejie.xyz:/www/blog.git
+  repo: git@129.28.193.26:/home/git/blog.git
   branch: master

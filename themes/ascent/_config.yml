@@ -4,14 +4,12 @@ menu:
   # Archives: /archives
   主页: /
   归档: /archives
-  关于我: /aboutme
-# rss: /atom.xml
 
 # Content
 excerpt_link: 全文
 
 # Favicon
-# favicon: /favicon.ico
+# favicon: https://www.easyicon.net/download/png/1108447/96/
 
 # Settings toggle
 settings: true
