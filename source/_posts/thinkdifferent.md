@@ -5,8 +5,7 @@ tags:
 top: false
 ---
 
-
-![Tesla](https://zh.wikipedia.org/wiki/尼古拉·特斯拉#/media/File:Nikola_Tesla_signature_1900.svg)
+![Nikola Tesla](https://github.com/Qzero/hejie.xyz/blob/master/Nikola_Tesla_signature_1900.png)
 
 <!-- more -->
 
