@@ -1,0 +1,16 @@
+menu:
+  Home: /
+  Archives: /archives
+
+vertical: false
+excerpt: false
+darkmode: true
+always_darkmode: false
+podcast: false
+favicon: favicon.png
+license: 皖ICP备19020628号-1
+#font_mirror: fonts.loli.net // 国内更快
+#font_mirror: fonts.googleapis.com
+font_mirror: fonts.loli.net
+custom_fonts:
+to_chinese_date: true

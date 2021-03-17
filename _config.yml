@@ -94,11 +94,23 @@ pagination_dir: page
 
 # Extensions
 theme: ascent
+# theme: Seje
 # theme: light
 
 # addlink:
 #   before_text:
 #   after_text: 转载注明出处
+
+douban:
+  user: heqijie
+  builtin: false
+  book:
+    title: ''
+    quote: ''
+  movie:
+    title: ''
+    quote: ''
+  timeout: 10000
 
 sitemap:
   path: sitemap.xml
