@@ -98,6 +98,7 @@ pagination_dir: page
 #menu Include / Exclude file(s)
 # include:/exclude: options only apply to the 'source/' folder
 
+
 # Extensions
 theme: one-paper
 # addlink:
