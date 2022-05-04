@@ -411,7 +411,7 @@ td, th, table caption, table td, table th {
   height: 100%;
   margin-top: 0;
 }
-
+ 
 ::selection {
   background-color: var(--selection-color);
 }
