@@ -1,0 +1,33 @@
+# Header
+menu:
+  # Home: /
+  # Archives: /archives
+  主页: /
+  归档: /archives
+  书籍: /books
+  电影: /movies
+
+# Content
+excerpt_link: 全文
+
+# Favicon
+# favicon: https://www.easyicon.net/download/png/1108447/96/
+
+# Settings toggle
+settings: true
+
+# Code CSS toggle
+highlight: true
+
+# Word count (needs hexo-wordcount)
+word_count: false
+
+# Google Analytics
+google_analytics:
+  enable: true
+  acct: "UA-000000000-0"
+
+# IntenseDebate ID
+intensedebate:
+  enable: false
+  acct: "00000000000000000000000000000000"
