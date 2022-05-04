@@ -99,7 +99,6 @@ pagination_dir: page
 # include:/exclude: options only apply to the 'source/' folder
 
 # Extensions
-# theme: ascent
 theme: one-paper
 # addlink:
 #   before_text:
