@@ -18,6 +18,7 @@ root: /
 # 为链接持久化注释 permalink: :year/:month/:day/:title/
 # 为链接持久化注释 permalink_defaults:
 
+# 链接持久化
 permalink: posts/:abbrlink.html  # 此处可以自己设置，也可以直接使用 :/abbrlink
 abbrlink:
     alg: crc32   #算法： crc16(default) and crc32
@@ -98,13 +99,13 @@ pagination_dir: page
 #menu Include / Exclude file(s)
 # include:/exclude: options only apply to the 'source/' folder
 
-
 # Extensions
 theme: one-paper
 # addlink:
 #   before_text:
 #   after_text: 转载注明出处
 
+# 豆瓣插件
 douban:
   user: isHEJIE
   builtin: false
@@ -116,11 +117,13 @@ douban:
     quote: ''
   timeout: 10000
 
+# 站点地图
 sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
 
+# 抓取机器人
 robotstxt:
   useragent: "*"
   allow:
@@ -138,6 +141,7 @@ robotstxt:
     - https://wwww.hejie.xyz/sitemap.xml
     - https://wwww.hejie.xyz/baidusitemap.xml
 
+# Git到服务器
 deploy:
   type: git
   repo: git@129.28.193.26:/home/git/blog.git
