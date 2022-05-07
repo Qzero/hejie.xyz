@@ -48,7 +48,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -100,7 +100,7 @@ pagination_dir: page
 # include:/exclude: options only apply to the 'source/' folder
 
 # Extensions
-theme: one-paper
+theme: minima
 # addlink:
 #   before_text:
 #   after_text: 转载注明出处
