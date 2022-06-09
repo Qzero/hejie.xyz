@@ -105,16 +105,22 @@ theme: minima
 #   before_text:
 #   after_text: 转载注明出处
 
+# 搜索插件
+search:
+  path: search.json
+  field: post
+  content: true
+
 # 豆瓣插件
 douban:
   user: isHEJIE
   builtin: false
   book:
     title: ''
-    quote: ''
+    quote: '书籍清单'
   movie:
     title: ''
-    quote: ''
+    quote: '电影清单'
   timeout: 10000
 
 # 站点地图
@@ -144,6 +150,12 @@ robotstxt:
 # Git到服务器
 deploy:
   type: git
-  repo: git@129.28.193.26:/home/git/blog.git
+  repo: git@github.com:Qzero/Qzero.github.io.git
   branch: master
 
+#deploy:
+#  type: git
+#  repo: git@165.154.42.226:/home/git/blog.git
+#  branch: master
+#  repo: git@129.28.193.26:/home/git/blog.git
+#  repo: git@github.com:Qzero/hejie.github.io.git
