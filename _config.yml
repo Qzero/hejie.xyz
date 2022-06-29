@@ -153,9 +153,4 @@ deploy:
   repo: git@github.com:Qzero/Qzero.github.io.git
   branch: master
 
-#deploy:
-#  type: git
-#  repo: git@165.154.42.226:/home/git/blog.git
-#  branch: master
 #  repo: git@129.28.193.26:/home/git/blog.git
-#  repo: git@github.com:Qzero/hejie.github.io.git
