@@ -1,5 +1,5 @@
 ---
-title: 无聊的船票
+title: NASA火星船票
 top: false
 comments: false
 abbrlink: 433c3f65
@@ -11,6 +11,8 @@ categories:
 
 
 <!-- more -->
+
+能不能带着上火星
 
 ![433c3f65](https://jie-1253976134.cos.ap-shanghai.myqcloud.com/tuchuang/433c3f65.png)
 

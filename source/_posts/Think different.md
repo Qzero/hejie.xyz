@@ -2,7 +2,7 @@
 title: Think different
 top: false
 abbrlink: 9211fae8
-date: 2021-01-05 16:09:39
+date: 2020-01-05 16:09:39
 tags:
 ---
 
@@ -13,6 +13,5 @@ Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The roun
 
 — Apple’s “Think Different” commercial, 1997
 '''
-
 
 ©版权归属作者“HEJIE.XYZ / 何杰”，转载请注明。任何问题欢迎Email沟通。谢谢~
