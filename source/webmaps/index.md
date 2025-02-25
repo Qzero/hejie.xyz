@@ -17,6 +17,7 @@ date: 2022-07-05 23:55:26
 [有道云笔记](http://note.youdao.com)
 [腾讯文档](https://docs.qq.com/desktop)
 [Github](https://github.com)
+[全国标准信息服务平台](https://std.samr.gov.cn)
 
 ___
 
