@@ -48,7 +48,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -104,6 +104,10 @@ theme: minima
 # addlink:
 #   before_text:
 #   after_text: 转载注明出处
+
+# hexo-renderer-sass插件
+node_sass:
+  outputStyle: expanded
 
 # 搜索插件
 search:

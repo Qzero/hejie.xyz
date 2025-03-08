@@ -1,5 +1,5 @@
 ---
-title: 服务器搭建Hexo
+title: Hexo-服务器端搭建
 top: false
 abbrlink: fed583ef
 date: 2021-03-17 18:17:30
