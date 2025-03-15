@@ -20,4 +20,4 @@ categories:
 
 ![433c3f65-2](https://jie-1253976134.cos.ap-shanghai.myqcloud.com/tuchuang/433c3f65-2.png)
 
-©版权归属作者“HEJIE.XYZ / 何杰”，转载请注明。任何问题欢迎Email沟通。谢谢~
+©版权归属作者“HEJIE.XYZ / 何杰”，转载请注明。任何问题点右下角Email联系我。谢谢~
