@@ -157,4 +157,5 @@ deploy:
   repo: git@github.com:Qzero/Qzero.github.io.git
   branch: master
 
+# 部署到自有服务器
 #  repo: git@129.28.193.26:/home/git/blog.git

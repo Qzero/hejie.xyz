@@ -81,31 +81,3 @@ ___
 [艾瑞网](https://www.iresearch.cn)
 [巨潮资讯](http://www.cninfo.com.cn/new/index)
 [199IT](http://www.199it.com/)
-
-___
-
-### 新闻
-
-[DW](https://www.dw.com/zh/在线报导/s-9058)
-[日经](https://cn.nikkei.com)
-[纽约时报](https://cn.nytimes.com/zh-hant/)
-[BBC](https://www.bbc.com/zhongwen/simp)
-[VOA](https://www.voachinese.com)
-
-___
-
-### 其他
-
-[电子书共享社区](https://ebook2.lorefree.com)
-[苦瓜书盘](https://www.kgbook.com)
-[书格](https://new.shuge.org/)
-[八达网海淘](http://www.8dexpress.com)
-[Bookzz](https://www.bookzz.ren)
-
-___
-
-### 计算机工具
-
-[itmeo渐变色](https://webgradients.com)
-[Color Hunt渐变色](https://colorhunt.co)
-[网络检测](https://ping.pe)
